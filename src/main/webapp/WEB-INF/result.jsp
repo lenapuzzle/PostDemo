@@ -19,7 +19,7 @@
    	</ul>
    	
    	<a href="/">Home</a> --%>
-   	<p>Hi <c:out value="${email}"/></p>
+   	<p>Hi, <c:out value="${email}"/></p>
    	
 </body>
 </html>
